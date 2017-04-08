@@ -1,0 +1,15 @@
+﻿Gynybos magija:
+
+** energijos barjeras -- jis yra kryptinga, o ne 360. Apsaugo arba sugeria dalį damage nuo visų ranged ir magic atakų.
+** Fizinis barjeras -- pvz.: ledo siena. Gali užkirsti kelią priešams. Turi hp meter, o jam pasibaigus siena sugriūna. HP mažėja ją atakuuojant arba tiesiog laikui bėgant.
+
+============================================================================================================================================================================
+
+Support magija:
+
+** Self-healing -- Mana verčiama į Gyvybę.
+** Vital exchange -- Gyvybė verčiama į maną. Didesnis konversijos santykis nei Self-healing burto.
+** Laiko iškraipymas -- Sulėtinamas laikas. Toggle mechanizmas. Mana yra naudojama kol veikia burtas. Tobulėjant įgudžiui didėja laiko sulėtinimas (pasireiškia aplinkinių objektų sulėtėjimu bei veikėjo greičio išlaikymu). [ Sulėtėja laikas -> Sustoja laikas ].
+** Ervės Šuoliai (teleportacija) -- galima šuolį įvykdyti tiesioginio matomumo zonoje.
+** Shadow Leap -- susilieja veikėjas su savo šešėliu. Tampa nepastebimas priešams. Nėra fizinio kontakto su priešais.
+** Pelkė -- sukuriama pelkė, kuri sustabdo viską kas per ją eina. Galbūt ir daro žalą.
