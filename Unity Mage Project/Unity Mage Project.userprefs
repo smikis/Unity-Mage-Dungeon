@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="Unity Mage Project.CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Temp\Compiled-Custom-NewSurfaceShader.shader">
+    <Files>
+      <File FileName="Temp\Compiled-Custom-NewSurfaceShader.shader" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

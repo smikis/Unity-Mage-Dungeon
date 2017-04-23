@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: e21ce4236c1b87148ab4e4a00fd175d4
-timeCreated: 1491245875
+timeCreated: 1492893319
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -14,6 +14,11 @@ TextureImporter:
     21300014: Structure sprites_7
     21300016: Structure sprites_8
     21300018: Structure sprites_9
+    21300020: Structure sprites_10
+    21300022: Structure sprites_11
+    21300024: Structure sprites_12
+    21300026: Structure sprites_13
+    21300028: Structure sprites_14
   serializedVersion: 4
   mipmaps:
     mipMapMode: 0
@@ -92,11 +97,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 360
+        y: 200
         width: 180
-        height: 84
+        height: 140
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -104,12 +109,12 @@ TextureImporter:
       name: Structure sprites_1
       rect:
         serializedVersion: 2
-        x: 236
-        y: 304
-        width: 68
-        height: 120
+        x: 256
+        y: 292
+        width: 180
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -117,12 +122,12 @@ TextureImporter:
       name: Structure sprites_2
       rect:
         serializedVersion: 2
-        x: 432
-        y: 332
-        width: 68
-        height: 92
+        x: 476
+        y: 0
+        width: 92
+        height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -130,25 +135,12 @@ TextureImporter:
       name: Structure sprites_3
       rect:
         serializedVersion: 2
-        x: 568
-        y: 324
-        width: 132
-        height: 120
+        x: 500
+        y: 292
+        width: 340
+        height: 44
       alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Structure sprites_4
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 204
-        width: 180
-        height: 64
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -156,12 +148,12 @@ TextureImporter:
       name: Structure sprites_5
       rect:
         serializedVersion: 2
-        x: 552
-        y: 176
-        width: 148
+        x: 500
+        y: 144
+        width: 68
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -170,11 +162,11 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 64
+        y: 0
         width: 180
-        height: 44
+        height: 164
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -182,12 +174,12 @@ TextureImporter:
       name: Structure sprites_7
       rect:
         serializedVersion: 2
-        x: 228
-        y: 80
-        width: 92
-        height: 120
+        x: 256
+        y: 0
+        width: 180
+        height: 84
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -195,12 +187,12 @@ TextureImporter:
       name: Structure sprites_8
       rect:
         serializedVersion: 2
-        x: 428
-        y: 76
-        width: 72
-        height: 120
+        x: 256
+        y: 152
+        width: 180
+        height: 64
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
@@ -208,12 +200,64 @@ TextureImporter:
       name: Structure sprites_9
       rect:
         serializedVersion: 2
-        x: 564
+        x: 612
         y: 0
+        width: 72
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Structure sprites_10
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 144
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Structure sprites_11
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 144
         width: 136
         height: 120
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Structure sprites_13
+      rect:
+        serializedVersion: 2
+        x: 888
+        y: 216
+        width: 132
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Structure sprites_14
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 148
+        height: 120
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       tessellationDetail: 0
