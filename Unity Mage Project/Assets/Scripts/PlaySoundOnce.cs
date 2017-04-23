@@ -14,12 +14,12 @@ public class PlaySoundOnce : MonoBehaviour {
 	}
 	
 	// Update is called once per frame
-	void Update () {
-        var distance = Vector3.Distance(player.position, transform.position);
+	void Update () {      
         if (Vector3.Distance(player.position, transform.position) < range && !_played)
         {
             AudioSource.PlayClipAtPoint(sound, transform.position);
             _played = true;
+            Destroy(this);
         }
     }
 }

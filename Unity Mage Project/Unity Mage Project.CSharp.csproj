@@ -80,6 +80,7 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Controls.cs" />
     <Compile Include="Assets\Scripts\PlaySoundOnce.cs" />
+    <Compile Include="Assets\Scripts\PlaySoundWhileInRange.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\RetroMusicPack Free\readme_EN.txt" />
