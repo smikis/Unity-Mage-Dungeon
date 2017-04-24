@@ -2,9 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlaySoundWhileInRange : MonoBehaviour {
+public class PlaySourceSoundWhileInRange : MonoBehaviour {
     public Transform player;
-    public double range;
     private AudioSource _sound;
 
     // Use this for initialization
@@ -17,14 +16,14 @@ public class PlaySoundWhileInRange : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
-       // var distanceMin = Vector3.Distance(player.position, _sound.maxDistance);      
-        if (Vector3.Distance(player.position, transform.position) < range)
+        // var distanceMin = Vector3.Distance(player.position, _sound.maxDistance);      
+        if (Vector3.Distance(player.position, transform.position) < _sound.maxDistance)
         {
             if (!_sound.isPlaying)
             {
                 _sound.Play();
-            }         
-           
+            }
+
         }
         else
         {
