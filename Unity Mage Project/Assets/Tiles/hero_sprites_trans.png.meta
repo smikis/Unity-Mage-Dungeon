@@ -1,0 +1,1476 @@
+fileFormatVersion: 2
+guid: cb92857d62a9af649aebf05fc6da9951
+timeCreated: 1494145750
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hero_sprites_trans_0
+    21300002: hero_sprites_trans_1
+    21300004: hero_sprites_trans_2
+    21300006: hero_sprites_trans_3
+    21300008: hero_sprites_trans_4
+    21300010: hero_sprites_trans_5
+    21300012: hero_sprites_trans_6
+    21300014: hero_sprites_trans_7
+    21300016: hero_sprites_trans_8
+    21300018: hero_sprites_trans_9
+    21300020: hero_sprites_trans_10
+    21300022: hero_sprites_trans_11
+    21300024: hero_sprites_trans_12
+    21300026: hero_sprites_trans_13
+    21300028: hero_sprites_trans_14
+    21300030: hero_sprites_trans_15
+    21300032: hero_sprites_trans_16
+    21300034: hero_sprites_trans_17
+    21300036: hero_sprites_trans_18
+    21300038: hero_sprites_trans_19
+    21300040: hero_sprites_trans_20
+    21300042: hero_sprites_trans_21
+    21300044: hero_sprites_trans_22
+    21300046: hero_sprites_trans_23
+    21300048: hero_sprites_trans_24
+    21300050: hero_sprites_trans_25
+    21300052: hero_sprites_trans_26
+    21300054: hero_sprites_trans_27
+    21300056: hero_sprites_trans_28
+    21300058: hero_sprites_trans_29
+    21300060: hero_sprites_trans_30
+    21300062: hero_sprites_trans_31
+    21300064: hero_sprites_trans_32
+    21300066: hero_sprites_trans_33
+    21300068: hero_sprites_trans_34
+    21300070: hero_sprites_trans_35
+    21300072: hero_sprites_trans_36
+    21300074: hero_sprites_trans_37
+    21300076: hero_sprites_trans_38
+    21300078: hero_sprites_trans_39
+    21300080: hero_sprites_trans_40
+    21300082: hero_sprites_trans_41
+    21300084: hero_sprites_trans_42
+    21300086: hero_sprites_trans_43
+    21300088: hero_sprites_trans_44
+    21300090: hero_sprites_trans_45
+    21300092: hero_sprites_trans_46
+    21300094: hero_sprites_trans_47
+    21300096: hero_sprites_trans_48
+    21300098: hero_sprites_trans_49
+    21300100: hero_sprites_trans_50
+    21300102: hero_sprites_trans_51
+    21300104: hero_sprites_trans_52
+    21300106: hero_sprites_trans_53
+    21300108: hero_sprites_trans_54
+    21300110: hero_sprites_trans_55
+    21300112: hero_sprites_trans_56
+    21300114: hero_sprites_trans_57
+    21300116: hero_sprites_trans_58
+    21300118: hero_sprites_trans_59
+    21300120: hero_sprites_trans_60
+    21300122: hero_sprites_trans_61
+    21300124: hero_sprites_trans_62
+    21300126: hero_sprites_trans_63
+    21300128: hero_sprites_trans_64
+    21300130: hero_sprites_trans_65
+    21300132: hero_sprites_trans_66
+    21300134: hero_sprites_trans_67
+    21300136: hero_sprites_trans_68
+    21300138: hero_sprites_trans_69
+    21300140: hero_sprites_trans_70
+    21300142: hero_sprites_trans_71
+    21300144: hero_sprites_trans_72
+    21300146: hero_sprites_trans_73
+    21300148: hero_sprites_trans_74
+    21300150: hero_sprites_trans_75
+    21300152: hero_sprites_trans_76
+    21300154: hero_sprites_trans_77
+    21300156: hero_sprites_trans_78
+    21300158: hero_sprites_trans_79
+    21300160: hero_sprites_trans_80
+    21300162: hero_sprites_trans_81
+    21300164: hero_sprites_trans_82
+    21300166: hero_sprites_trans_83
+    21300168: hero_sprites_trans_84
+    21300170: hero_sprites_trans_85
+    21300172: hero_sprites_trans_86
+    21300174: hero_sprites_trans_87
+    21300176: hero_sprites_trans_88
+    21300178: hero_sprites_trans_89
+    21300180: hero_sprites_trans_90
+    21300182: hero_sprites_trans_91
+    21300184: hero_sprites_trans_92
+    21300186: hero_sprites_trans_93
+    21300188: hero_sprites_trans_94
+    21300190: hero_sprites_trans_95
+    21300192: hero_sprites_trans_96
+    21300194: hero_sprites_trans_97
+    21300196: hero_sprites_trans_98
+    21300198: hero_sprites_trans_99
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hero_sprites_trans_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1104
+        width: 60
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1104
+        width: 60
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_2
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1104
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_3
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1104
+        width: 50
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_4
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1104
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1104
+        width: 50
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_6
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 1104
+        width: 62
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_7
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 1104
+        width: 54
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_8
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1104
+        width: 62
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_9
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 1104
+        width: 72
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_10
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 982
+        width: 46
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_11
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 982
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_12
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 982
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_13
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 982
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_14
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 982
+        width: 56
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_15
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 982
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_16
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 982
+        width: 48
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_17
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 982
+        width: 58
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_18
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 982
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_19
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 982
+        width: 80
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_20
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 860
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_21
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 860
+        width: 52
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_22
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 860
+        width: 88
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_23
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 860
+        width: 60
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_24
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 860
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_25
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 860
+        width: 78
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_26
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 860
+        width: 40
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_27
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 860
+        width: 62
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_28
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 860
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_29
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 860
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_30
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 738
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_31
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 738
+        width: 60
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_32
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 738
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_33
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 738
+        width: 52
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_34
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 738
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_35
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 738
+        width: 52
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_36
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 738
+        width: 56
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_37
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 738
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_38
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 738
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_39
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 738
+        width: 68
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_40
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 616
+        width: 54
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 616
+        width: 50
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_42
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 616
+        width: 58
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_43
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 616
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_44
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 616
+        width: 54
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_45
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 616
+        width: 68
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_46
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 616
+        width: 44
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_47
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 616
+        width: 46
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_48
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 616
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_49
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 616
+        width: 50
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_50
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 494
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_51
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 494
+        width: 62
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_52
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 494
+        width: 70
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_53
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 494
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_54
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 494
+        width: 52
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_55
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 494
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_56
+      rect:
+        serializedVersion: 2
+        x: 636
+        y: 494
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_57
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 494
+        width: 88
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_58
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 494
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_59
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 494
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_60
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 372
+        width: 54
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 372
+        width: 72
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_62
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 372
+        width: 66
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_63
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 372
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_64
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 372
+        width: 52
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_65
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 372
+        width: 56
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_66
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 372
+        width: 70
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_67
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 372
+        width: 60
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_68
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 372
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_69
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 372
+        width: 68
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_70
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 250
+        width: 54
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_71
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 250
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_72
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 250
+        width: 56
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_73
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 250
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_74
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 250
+        width: 48
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_75
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 250
+        width: 70
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_76
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 250
+        width: 72
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_77
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 250
+        width: 46
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_78
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 250
+        width: 54
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_79
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 250
+        width: 74
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_80
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 128
+        width: 60
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_82
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 62
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_83
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 128
+        width: 52
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_84
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 128
+        width: 58
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_85
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 128
+        width: 54
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_86
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 126
+        width: 76
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_87
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 128
+        width: 48
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_88
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 128
+        width: 72
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_89
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 128
+        width: 62
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_90
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 6
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_91
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 6
+        width: 68
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_92
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 6
+        width: 42
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_93
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 6
+        width: 52
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_94
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 6
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_95
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 6
+        width: 58
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_96
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 6
+        width: 50
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_97
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 6
+        width: 52
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_98
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 6
+        width: 56
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hero_sprites_trans_99
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 6
+        width: 56
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

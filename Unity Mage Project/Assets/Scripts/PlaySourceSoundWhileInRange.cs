@@ -16,11 +16,13 @@ public class PlaySourceSoundWhileInRange : MonoBehaviour {
     // Update is called once per frame
     void Update()
     {
+        var dist = Vector3.Distance(player.position, transform.position);
         // var distanceMin = Vector3.Distance(player.position, _sound.maxDistance);      
         if (Vector3.Distance(player.position, transform.position) < _sound.maxDistance)
         {
             if (!_sound.isPlaying)
             {
+                
                 _sound.Play();
             }
 
