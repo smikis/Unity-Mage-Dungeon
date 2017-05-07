@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2015
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Mage Project.CSharp", "Unity Mage Project.CSharp.csproj", "{2C61FBAB-4EDC-E79E-AF1F-97544CC681F7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity Mage Project.CSharp.Editor", "Unity Mage Project.CSharp.Editor.csproj", "{0DD61DF7-79A2-3E8F-C3D9-F0EA42BDF374}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +15,10 @@ Global
 		{2C61FBAB-4EDC-E79E-AF1F-97544CC681F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C61FBAB-4EDC-E79E-AF1F-97544CC681F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C61FBAB-4EDC-E79E-AF1F-97544CC681F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0DD61DF7-79A2-3E8F-C3D9-F0EA42BDF374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DD61DF7-79A2-3E8F-C3D9-F0EA42BDF374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DD61DF7-79A2-3E8F-C3D9-F0EA42BDF374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DD61DF7-79A2-3E8F-C3D9-F0EA42BDF374}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

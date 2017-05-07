@@ -13,13 +13,11 @@
     <TargetFrameworkIdentifier>.NETFramework</TargetFrameworkIdentifier>
     <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
     <TargetFrameworkProfile>Unity Subset v3.5</TargetFrameworkProfile>
-    <CompilerResponseFile>
-    </CompilerResponseFile>
+    <CompilerResponseFile></CompilerResponseFile>
     <UnityProjectType>Game:1</UnityProjectType>
     <UnityBuildTarget>StandaloneWindows:5</UnityBuildTarget>
     <UnityVersion>5.6.0f3</UnityVersion>
-    <RootNamespace>
-    </RootNamespace>
+    <RootNamespace></RootNamespace>
     <LangVersion Condition=" '$(VisualStudioVersion)' != '10.0' ">4</LangVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
@@ -80,6 +78,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\2DLightAsset\Examples\RigidBodyInterpolationSolution\FollowLight2d.cs" />
+    <Compile Include="Assets\2DLightAsset\Scripts\2DLight\DynamicLight.cs" />
+    <Compile Include="Assets\2DLightAsset\Scripts\Helpers\TablaSenoCoseno.cs" />
+    <Compile Include="Assets\2DLightAsset\Scripts\Helpers\interface_touch.cs" />
+    <Compile Include="Assets\2DLightAsset\Scripts\Helpers\interface_touch2.cs" />
+    <Compile Include="Assets\2DLightAsset\Scripts\rotate.cs" />
     <Compile Include="Assets\Scripts\CameraControll.cs" />
     <Compile Include="Assets\Scripts\ClimbingLadder.cs" />
     <Compile Include="Assets\Scripts\Controls.cs" />
@@ -88,6 +92,9 @@
     <Compile Include="Assets\Scripts\PlaySourceSoundWhileInRange.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\2DLightAsset\Shaders\Gradient-NoTexture-Radial-SingleColor-ToTransparent-RegularUV-AlphaBlend.shader" />
+    <None Include="Assets\2DLightAsset\Shaders\Gradient-ZFighting.shader" />
+    <None Include="Assets\2DLightAsset\Shaders\NoTexture.shader" />
     <None Include="Assets\RetroMusicPack Free\readme_EN.txt" />
     <None Include="Assets\RetroMusicPack Free\readme_JP.txt" />
   </ItemGroup>
